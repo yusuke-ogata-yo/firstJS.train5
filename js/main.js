@@ -1,7 +1,5 @@
-  'use strict';
+'use strict';
 {
-  console.log("message");
-
   const num = 5;
   const winner = Math.floor(Math.random() * num);
 
